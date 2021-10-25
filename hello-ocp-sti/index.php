@@ -12,5 +12,5 @@ Pod ip: <?php echo $_SERVER['SERVER_ADDR']?>
 <br>
 <br>
 phpinfo: <?php phpinfo()?>
-<?php console.log("php log message test")?>
+<?php <script>console.log("php log message test")</script>?>
 </html>
