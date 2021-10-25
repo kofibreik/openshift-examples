@@ -20,5 +20,4 @@ Pod hostname: <?php echo getenv('HOSTNAME')?>
 Pod ip: <?php echo $_SERVER['SERVER_ADDR']?>
 <br>
 <br>
-<!-- phpinfo: <?php phpinfo()?> -->
 </html>
